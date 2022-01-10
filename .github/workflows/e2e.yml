@@ -3,7 +3,7 @@ name: ci
 on:
   push:
     branches:
-      - main
+      - chore/try-ci
   pull_request:
     branches:
       - main
